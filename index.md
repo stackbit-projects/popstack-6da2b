@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: TBD NFT
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      PopDrop is a fun and safe space for kids to create, mint and share NFT
+      art. No experience required!
     actions:
       - label: Learn More
         url: /features
