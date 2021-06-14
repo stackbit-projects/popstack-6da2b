@@ -28,7 +28,7 @@
                 "style": "link"
             },
             {
-                "label": "Sign Up",
+                "label": "Connect",
                 "url": "/signup",
                 "style": "primary"
             }
