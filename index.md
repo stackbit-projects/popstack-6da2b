@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: TBD NFT
+    title: Digital at heart
     content: >
       PopDrop is a fun and safe space for kids to create, mint and share NFT
       art. No experience required!
